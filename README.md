@@ -1,75 +1,75 @@
 # Ronin
 
-Sending assets from an exchange to Ronin or the other way around
+Sending assets from an exchange to Ronin or the other way around\
 https://bridge.axieinfinity.com/
 
-Staking AXS for rewards
+Staking AXS for rewards\
 https://stake.axieinfinity.com/
 
 # Spreadsheet
 
-Maxbrand99's Public Axie Stats
+Maxbrand99's Public Axie Stats\
 https://docs.google.com/spreadsheets/d/1uJxF43b2nUZL55fS3wD1S3TCnqyaZiEDsBVDlTWpj7s/edit#gid=1068094480
 
-Maxbrand99's Public Price Stats
+Maxbrand99's Public Price Stats\
 https://docs.google.com/spreadsheets/d/16cHdjVBjyTDB_wnrp4nUoIfP1LzPw0TtZ8uWUmwHowE/edit#gid=1794855114
 
 # META
 
-Top 100 players and their teams
+Top 100 players and their teams\
 https://axie.zone/leaderboard
 
-Most used parts, be sure to toggle 'Top 100 players only'
+Most used parts, be sure to toggle 'Top 100 players only'\
 https://axie.zone/pvp-statistics#part_usage
 
-Shows the axies that the top 100 players are using and are listed on the marketplace
+Shows the axies that the top 100 players are using and are listed on the marketplace\
 https://axie-infinity.xyz/top100
 
 # Buying
 
-Advance Axie searching, by using genes
+Advance Axie searching, by using genes\
 https://betteraxie.tech/gene-finder
 
 # Selling
 
-Price data about axies that have been sold
+Price data about axies that have been sold\
 http://axietrends.com/axie-sales-data/
 
 # Economics
 
-More global statistics of Axie Infinity, be sure to check out 'SLP Issuance'
+More global statistics of Axie Infinity, be sure to check out 'SLP Issuance'\
 https://www.axieworld.com/en/economics/charts
 
 # Guides
 
-Beginner class guide, good overview of all the cards
+Beginner class guide, good overview of all the cards\
 https://lynnyl.io/axie-infinity-class-guide/
 
-Overview of what the stats do
+Overview of what the stats do\
 https://axie.zone/stats
 
 # Extensions
 
-Chrome extension to view axie purity and more
+Chrome extension to view axie purity and more\
 https://chrome.google.com/webstore/detail/freaks-axie-extension/copjnifcecdedocejpaapepagaodgpbh
 
-Expension on the above mentioned chrome extension, adding some extra details
+Expension on the above mentioned chrome extension, adding some extra details\
 https://chrome.google.com/webstore/detail/explorers-freak-extension/omgdahfemndocejpleigdkkapmikcnjl/related
 
 # Communities
 
-Axie Infinity subreddit
+Axie Infinity subreddit\
 https://www.reddit.com/r/AxieInfinity/
 
 # Scholar Management
 
-Good overview of your scholars
+Good overview of your scholars\
 https://axie.management/tracker
 
 # Breeding
 
-Live updated overview of breeding costs
+Live updated overview of breeding costs\
 https://www.chillaxie.com/breeding-costs
 
-Check out the breeding tree worksheet
+Check out the breeding tree worksheet\
 https://docs.google.com/spreadsheets/d/1FhwXEe_KBwYGLfUPtWM03CWM4O8EmWCTQ5So0Q7cs_c/pubhtml#
