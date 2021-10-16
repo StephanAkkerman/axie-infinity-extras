@@ -57,7 +57,7 @@ https://www.notion.so/axie/Axie-Ronin-Developer-Information-623c6756391249b5a64d
 Beginner class guide, good overview of all the cards\
 https://lynnyl.io/axie-infinity-class-guide/
 
-Overview of what the stats do\
+Overview of what the stats of axies represent in game\
 https://axie.zone/stats
 
 # Extensions
