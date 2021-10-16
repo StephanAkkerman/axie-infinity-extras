@@ -8,7 +8,7 @@ https://stake.axieinfinity.com/
 
 # Buying
 
-Advance Axie searching, by using genes\
+Advance axie searching, by using genes\
 https://betteraxie.tech/gene-finder
 
 Finding the cheapest axies on the marketplace\
