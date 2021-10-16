@@ -56,8 +56,14 @@ https://axie.zone/stats
 Chrome extension to view axie purity and more\
 https://chrome.google.com/webstore/detail/freaks-axie-extension/copjnifcecdedocejpaapepagaodgpbh
 
+Firefox extension to view axie purity and more\
+https://addons.mozilla.org/en-US/firefox/addon/axie-explorer/
+
 Expension on the above mentioned chrome extension, adding some extra details\
 https://chrome.google.com/webstore/detail/explorers-freak-extension/omgdahfemndocejpleigdkkapmikcnjl/related
+
+Chrome enxtension for predicting egg outcomes\
+https://chrome.google.com/webstore/detail/breedict/lmcdhjgkpgdoejhddiiknaiajmcodnfk
 
 # Communities
 
