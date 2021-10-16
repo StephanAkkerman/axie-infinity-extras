@@ -100,7 +100,7 @@ https://axie-scho-tracker.vercel.app/
 Has a unique overview with nice graphs to represent data\
 https://axie.watch/
 
-SLP tracker with some tools\
+SLP tracker with some extra tools i.e. calculating breeding profits\
 https://axiepad.com/
 
 # API
