@@ -30,6 +30,9 @@ https://axie-infinity.xyz/top100
 Advance Axie searching, by using genes\
 https://betteraxie.tech/gene-finder
 
+Finding the cheapest axies on the marketplace\
+https://www.chillaxie.com/price-floors
+
 # Selling
 
 Price data about axies that have been sold\
