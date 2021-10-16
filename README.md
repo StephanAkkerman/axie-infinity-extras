@@ -76,6 +76,9 @@ https://chrome.google.com/webstore/detail/breedict/lmcdhjgkpgdoejhddiiknaiajmcod
 Axie Infinity subreddit\
 https://www.reddit.com/r/AxieInfinity/
 
+Axie Infinity Discord server\
+https://discord.com/invite/axie
+
 # Scholar Management
 
 Good overview of your scholars\
