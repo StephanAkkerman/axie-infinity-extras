@@ -54,6 +54,9 @@ https://www.notion.so/axie/Axie-Ronin-Developer-Information-623c6756391249b5a64d
 
 # Guides
 
+Beginner guide that covers all the basics\
+https://axie.substack.com/p/axie-infinity-community-alpha-guide
+
 Beginner class guide, good overview of all the cards\
 https://lynnyl.io/axie-infinity-class-guide/
 
