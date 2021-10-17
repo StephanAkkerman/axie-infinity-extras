@@ -63,6 +63,9 @@ https://lynnyl.io/axie-infinity-class-guide/
 Overview of what the stats of axies represent in game\
 https://axie.zone/stats
 
+Some lesser known information about how the game works\
+https://www.coingecko.com/buzz/axie-infinity-10-tips-tricks-secrets-you-didnt-know
+
 # Extensions
 
 Chrome extension to view axie purity and more\
