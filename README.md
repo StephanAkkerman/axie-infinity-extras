@@ -6,10 +6,19 @@ https://betteraxie.tech/gene-finder
 Finding the cheapest axies on the marketplace\
 https://www.chillaxie.com/price-floors
 
+Freak's sales map, showing availble land for purchase\
+https://freakitties.github.io/axie/land/salesMap.html
+
+Freak's trait count, showing how many axies have a certain part\
+https://freakitties.github.io/axie/traits.html
+
 # Selling
 
 Price data about axies that have been sold\
 http://axietrends.com/axie-sales-data/
+
+Axie World's sales explorer\
+https://www.axieworld.com/en/tools/sales-explorer
 
 # Breeding
 
@@ -18,6 +27,12 @@ https://www.chillaxie.com/breeding-costs
 
 Check out the breeding tree worksheet\
 https://docs.google.com/spreadsheets/d/1FhwXEe_KBwYGLfUPtWM03CWM4O8EmWCTQ5So0Q7cs_c/pubhtml#
+
+Freak's breeding calculator, showing the potential outcomes of breeding 2 axies\
+https://freakitties.github.io/axie/calc.html
+
+Axie.zone's breeding simulator\
+https://axie.zone/breeding-simulator
 
 # META
 
@@ -66,6 +81,18 @@ https://axie.zone/stats
 Some lesser known information about how the game works\
 https://www.coingecko.com/buzz/axie-infinity-10-tips-tricks-secrets-you-didnt-know
 
+Description of all the buffs and debuffs\
+https://axie.zone/debuffs
+
+Overview of more advanced guides\
+https://axieedge.com/category/guides/
+
+Axie World's card explorer\
+https://www.axieworld.com/en/tools/cards-explorer
+
+Overview of all the items available\
+https://www.virtualgoods.info/
+
 # Extensions
 
 Chrome extension to view axie purity and more\
@@ -88,8 +115,17 @@ https://chrome.google.com/webstore/detail/axiedex-the-ultimate-axie/bknllnbfmljm
 Axie Infinity subreddit\
 https://www.reddit.com/r/AxieInfinity/
 
-Axie Infinity Discord server\
+Axie Infinity official Discord server\
 https://discord.com/invite/axie
+
+Axie Infinity official Portuguese server\
+https://discord.gg/axiept
+
+Axie Infinity official Tagalog server\
+https://discord.gg/axieph
+  
+Axie Infinity official Spanish server\
+https://discord.gg/axiees
 
 # Scholar Management
 Note: most of these website below serve the same fuction, that is tracking the SLP of your scholars.
@@ -122,19 +158,19 @@ https://axie-graphql.web.app/
 
 ### Replace `RONIN_ADDRESS` in the url with the ronin: address of your account(s). 
 
-This is a list of your PvP battle logs\
+Returns a list of your PvP battle logs\
 https://game-api.axie.technology/battlelog/RONIN_ADDRESS
 
-SLP Stats\
+Returns SLP Stats\
 https://game-api.axie.technology/slp/RONIN_ADDRESS
 
-MMR\
+Returns MMR\
 https://game-api.axie.technology/mmr/RONIN_ADDRESS
 
 Lunacia Rover Proxy match\
 https://game-api.axie.technology/api/v1/RONIN_ADDRESS
 
-Gives XP amounts for axies\
+Returns XP amounts for axies\
 https://game-api.axie.technology/axies/AXIE_ID,AXIE_ID,AXIE_ID
 
 Returns the leaderboard with offset and limit options\
@@ -143,14 +179,23 @@ https://game-api.axie.technology/toprank?offset=110&limit=111
 ALL OF THE ABOVE CALLS CAN USE MULTIPLE ADDRESSES AT ONCE TO REDUCE SERVER LOADS AND DECREASE RESPONSE TIMES, FOR EXAMPLE:\
 https://game-api.axie.technology/api/v1/RONIN_ADDRESS,RONIN_ADDRESS,RONIN_ADDRESS
 
-Tells you max energy, remaining energy, along with a few other stats\
+Returns max energy, remaining energy, along with a few other stats\
 https://game-api.axie.technology/player/RONIN_ADDRESS + auth token
 
-Shows you the teams for a given account\
+Returns the teams for a given account\
 https://game-api.axie.technology/squads/RONIN_ADDRESS + auth token
 
-Tells you the progress on the daily missions\
+Returns the progress on the daily missions\
 https://game-api.axie.technology/missions/RONIN_ADDRESS + auth token
+
+Returns all the genes of the specified axie
+https://api.axie.technology/getgenes/AXIE_ID
+
+Returns all the genes of the specified axie and more
+https://api.axie.technology/getgenes/AXIE_ID/all
+
+Returns information of axie except the genes
+https://api.axie.technology/getaxies/AXIE_ID
 
 How to get your auth token (Links to the official Axie Infinity server)\
 https://discord.com/channels/410537146672349205/505902543927246870/895340228108238869
@@ -186,7 +231,13 @@ https://github.com/ShaneMaglangit/agp-npm
 Gene parsing package for Axie Infinity (Go)\
 https://github.com/ShaneMaglangit/agp
 
+Shows the genes of your axies, using an easy to understand overview\
+https://freakitties.github.io/axie/jeans.html
+
 ## Others
+
+All of Freak's Axie Infinity tools\
+https://freakitties.github.io/axie/
 
 Load and display recently listed Axies from Axie Infinity Market\
 https://github.com/miloszr7/Axie-Infinity
