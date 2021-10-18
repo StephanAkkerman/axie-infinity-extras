@@ -188,13 +188,13 @@ https://game-api.axie.technology/squads/RONIN_ADDRESS + auth token
 Returns the progress on the daily missions\
 https://game-api.axie.technology/missions/RONIN_ADDRESS + auth token
 
-Returns all the genes of the specified axie
+Returns all the genes of the specified axie\
 https://api.axie.technology/getgenes/AXIE_ID
 
-Returns all the genes of the specified axie and more
+Returns all the genes of the specified axie and more\
 https://api.axie.technology/getgenes/AXIE_ID/all
 
-Returns information of axie except the genes
+Returns information of axie except the genes\
 https://api.axie.technology/getaxies/AXIE_ID
 
 How to get your auth token (Links to the official Axie Infinity server)\
