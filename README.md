@@ -25,8 +25,8 @@ https://www.axieworld.com/en/tools/sales-explorer
 Live updated overview of breeding costs\
 https://www.chillaxie.com/breeding-costs
 
-Check out the breeding tree worksheet\
-https://docs.google.com/spreadsheets/d/1FhwXEe_KBwYGLfUPtWM03CWM4O8EmWCTQ5So0Q7cs_c/pubhtml#
+Spreadsheet containing helpful information for breeding\
+https://docs.google.com/spreadsheets/d/1FhwXEe_KBwYGLfUPtWM03CWM4O8EmWCTQ5So0Q7cs_c/edit#gid=1565985536
 
 Freak's breeding calculator, showing the potential outcomes of breeding 2 axies\
 https://freakitties.github.io/axie/calc.html
@@ -55,6 +55,9 @@ https://docs.google.com/spreadsheets/d/16cHdjVBjyTDB_wnrp4nUoIfP1LzPw0TtZ8uWUmwH
 
 More global statistics of Axie Infinity, be sure to check out 'SLP Issuance'\
 https://www.axieworld.com/en/economics/charts
+
+Spreadsheet about Axie's growth data\
+https://docs.google.com/spreadsheets/d/1g4d2lzBytC-Wo4_rKGHjR3vGeJHb8hd1jb55qRf_S2g/edit#gid=0
 
 # Ronin
 
@@ -155,6 +158,9 @@ https://storage.googleapis.com/axie-cdn/game/cards/card-abilities.json
 
 Unofficial API Documentation for the Axie Infinity's GraphQL Endpoint\
 https://axie-graphql.web.app/
+
+Short documentation about the operations and how to perform them\
+https://docs.google.com/spreadsheets/d/15xHCRyQpuQHPxFpUhzFSWQwrdoWYwbG5hrVTULRtXpw/edit#gid=1021704256
 
 ### Replace `RONIN_ADDRESS` in the url with the ronin: address of your account(s). 
 
