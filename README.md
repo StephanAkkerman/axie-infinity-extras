@@ -45,6 +45,9 @@ https://axie.zone/pvp-statistics#part_usage
 Shows the axies that the top 100 players are using and are listed on the marketplace\
 https://axie-infinity.xyz/top100
 
+Ingame stats of your ronin account, such as win rate against team lineups\
+https://orcaetal.github.io/axieBattleStats/
+
 # Economics
 
 Maxbrand99's Public Axie Stats\
