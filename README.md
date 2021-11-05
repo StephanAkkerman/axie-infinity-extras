@@ -113,7 +113,7 @@ https://chrome.google.com/webstore/detail/explorers-freak-extension/omgdahfemndo
 Chrome extension for predicting egg outcomes\
 https://chrome.google.com/webstore/detail/breedict/lmcdhjgkpgdoejhddiiknaiajmcodnfk
 
-AxieDex enhances the display of Axies information in the Axie Marketplace. For Chrome, Brave, and Edge\ 
+AxieDex enhances the display of Axies information in the Axie Marketplace. For Chrome, Brave, and Edge
 https://tonystrawberry.github.io/axiedex/
 
 # Communities
