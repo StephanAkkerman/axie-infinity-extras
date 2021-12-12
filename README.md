@@ -221,6 +221,12 @@ https://github.com/ZracheSs-xyZ/QrCodeBot-xyZ
 Simple Discord Bot that checks Axie Infinity Server and Marketplace status\
 https://github.com/niklas-pernter/axie-infinity-status-discord-bot
 
+My own Discord bot for managing scholars\
+https://github.com/StephanAkkerman/Axie_Manager_Bot
+
+The Discord bot made by Lamp and Maxbrand99 for managing scholars\
+https://github.com/LampAndMaxAxie/LampAndMaxAxieBot
+
 ## Scholar Management
 
 This script will make all the payouts for your Axie Infinity academy\
@@ -244,6 +250,9 @@ Shows the genes of your axies, using an easy to understand overview\
 https://freakitties.github.io/axie/jeans.html
 
 ## Others
+
+Library to build Python tools for Axie Infinity\
+https://github.com/FerranMarin/axie-utils-lib
 
 All of Freak's Axie Infinity tools\
 https://freakitties.github.io/axie/
