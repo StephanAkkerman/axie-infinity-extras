@@ -229,6 +229,9 @@ https://github.com/LampAndMaxAxie/LampAndMaxAxieBot
 
 ## Scholar Management
 
+My personal Python script that keeps track of the each scholar using Google Spreadsheets\
+https://github.com/StephanAkkerman/Scholar_Stats
+
 This script will make all the payouts for your Axie Infinity academy\
 https://github.com/ZracheSs-xyZ/PayoutScript-xyZ
 
