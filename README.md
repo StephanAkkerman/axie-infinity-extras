@@ -12,6 +12,9 @@ https://freakitties.github.io/axie/land/salesMap.html
 Freak's trait count, showing how many axies have a certain part\
 https://freakitties.github.io/axie/traits.html
 
+Overview of the Axie market\
+https://www.axiemarketstats.com/
+
 # Selling
 
 Price data about axies that have been sold\
