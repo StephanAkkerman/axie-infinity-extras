@@ -191,15 +191,6 @@ https://game-api.axie.technology/toprank?offset=110&limit=111
 ALL OF THE ABOVE CALLS CAN USE MULTIPLE ADDRESSES AT ONCE TO REDUCE SERVER LOADS AND DECREASE RESPONSE TIMES, FOR EXAMPLE:\
 https://game-api.axie.technology/api/v1/RONIN_ADDRESS,RONIN_ADDRESS,RONIN_ADDRESS
 
-Returns max energy, remaining energy, along with a few other stats\
-https://game-api.axie.technology/player/RONIN_ADDRESS + auth token
-
-Returns the teams for a given account\
-https://game-api.axie.technology/squads/RONIN_ADDRESS + auth token
-
-Returns the progress on the daily missions\
-https://game-api.axie.technology/missions/RONIN_ADDRESS + auth token
-
 Returns all the genes of the specified axie\
 https://api.axie.technology/getgenes/AXIE_ID
 
@@ -209,11 +200,34 @@ https://api.axie.technology/getgenes/AXIE_ID/all
 Returns information of axie except the genes\
 https://api.axie.technology/getaxies/AXIE_ID
 
-How to get your auth token (Links to the official Axie Infinity server)\
-https://discord.com/channels/410537146672349205/505902543927246870/895340228108238869
-
 Look for comparable axies on the marketplace to find out what a particular axie might sell for\
 https://axie.sirsean.workers.dev/
+
+## Requires Authentication Token
+
+Returns max energy, remaining energy, along with a few other stats\
+https://game-api.axie.technology/player/RONIN_ADDRESS + auth token
+
+Returns the teams for a given account\
+https://game-api.axie.technology/squads/RONIN_ADDRESS + auth token
+
+Returns the progress on the daily missions\
+https://game-api.axie.technology/missions/RONIN_ADDRESS + auth token
+
+### How To Get Your Authentication Token
+Programmatic route:
+```
+1. GetRandomMessage from GraphQL
+2. Sign with private key
+3. GenerateAuthToken from GraphQL
+```
+Web route (easier):
+```
+1. Login to Marketplace via Ronin/Metamask
+2. Open Chrome dev tools (Ctrl+Shift+J)
+3. On the console tab, type `localStorage.accessToken`
+4. Copy that output value
+```
 
 # GitHub codes
 
