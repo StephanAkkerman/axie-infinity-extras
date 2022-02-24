@@ -171,7 +171,10 @@ https://docs.google.com/spreadsheets/d/15xHCRyQpuQHPxFpUhzFSWQwrdoWYwbG5hrVTULRt
 ### Replace `RONIN_ADDRESS` in the url with the ronin: address of your account(s). 
 
 Returns a list of your PvP battle logs\
-https://game-api.axie.technology/battlelog/RONIN_ADDRESS
+https://game-api.axie.technology/logs/pvp/RONIN_ADDRESS
+
+Returns a list of your PvE battle logs\
+https://game-api.axie.technology/logs/pve/RONIN_ADDRESS
 
 Returns SLP Stats\
 https://game-api.axie.technology/slp/RONIN_ADDRESS
